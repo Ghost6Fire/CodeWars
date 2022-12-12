@@ -7,4 +7,3 @@ const repeatStr = (n, s) => {
  O
 
 
-o
